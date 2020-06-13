@@ -1,6 +1,7 @@
 #Show adaptive landscape concept
 #Further reading:
-#	-Waddington (1974)
+#	-Waddington, C. H. (1974) A Catastrophe Theory of Evolution. Annals of the New York Academy of Sciences...
+#		231 (1): 32-41. doi:10.1111/j.1749-6632.1974.tb20551.x
 #Author: Manuel Weinkauf (Manuel.Weinkauf@gmx.de)
 #Version: 1.0
 #Date: 13 June 2020
